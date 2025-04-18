@@ -11,7 +11,7 @@
 
 // for jwt token
 const jwt = require("jsonwebtoken");
-const secret = "Ayush$$2001$$";
+const secret = "qwertyuiop";
 
 function setUser(user) {
   return jwt.sign(
