@@ -20,8 +20,12 @@ A full-stack web application that allows users to shorten long URLs, track click
 
 ## 📸 Screenshots
 
-> Home | Login | Sign Up  
-> *(Will be updated soon)*
+<p float="left">
+  <img src="img/home.png" width="300" alt="Home" />
+  <img src="img/login.png" width="300" alt="Login" />
+  <img src="img/signup.png" width="300" alt="Signup" />
+  <img src="img/shortUrl.png" width="300" alt="URL Dashboard" />
+</p>
 
 
 ---
